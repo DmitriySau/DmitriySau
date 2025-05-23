@@ -6,4 +6,5 @@
 ![MySQL](https://img.shields.io/badge/MySQL-030207?style=for-the-badge&logo=MySQL&logoColor=5561F5) 
 ![DevTools](https://img.shields.io/badge/DevTools-030207?style=for-the-badge&logo=DevTools&logoColor=A51D22) 
 
-Follow Me
+## Follow Me
+[![Telegram](https://img.shields.io/badge/Telegram-030207?style=for-the-badge&logo=Telegram&logoColor=F7F7F8)]( https://t.me/wackypnz)
