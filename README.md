@@ -1,7 +1,7 @@
 ![Header]()
 
 ## Hello!
-# My name is Dmitriy! This is my test portfolio. 
+# My name is Dmitriy! This is my testing portfolio. 
 ## My Tools
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png" title="YouTrack" alt="YouTrack" width="40" height="40"/>
