@@ -1,4 +1,3 @@
-![Header]()
 
 ## Hello!
 # My name is Dmitriy! This is my testing portfolio. 
