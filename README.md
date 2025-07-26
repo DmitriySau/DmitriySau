@@ -17,7 +17,7 @@
 ## My Test Artifacts!
 <li><a href=https://github.com/DmitriySau/api_test/blob/main/README.md> API demoshop testing</a> - REST in Postman</li>
 <li><a href=https://github.com/DmitriySau/demoshop/blob/main/README.md> Test - case, check - list, bug - report example </a> - demoshop testing</li>
-<li><a href=https://github.com/DmitriySau/mySQLcheat/blob/main/README.md> Cheat sheet of basic mySQL queries </a> - demoshop testing</li>
+<li><a href=https://github.com/DmitriySau/mySQLcheat/blob/main/README.md> Cheat sheet mySQL </a> Cheat sheet of basic mySQL queries </li>
 
 ## Follow Me
 
